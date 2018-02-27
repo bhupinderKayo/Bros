@@ -1,0 +1,16 @@
+PODS:
+  - Bros (0.1.0)
+
+DEPENDENCIES:
+  - Bros (from `../`)
+
+EXTERNAL SOURCES:
+  Bros:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Bros: b445dbf30b7df57dc6d97734478c51f1ae79c953
+
+PODFILE CHECKSUM: b398e25f07ff8f98502cdbfeda4ed13c5b5159a8
+
+COCOAPODS: 1.2.1
